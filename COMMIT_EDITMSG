@@ -1,0 +1,8 @@
+[MLL-270] Bug fixed, by changing header return hash
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch mll-270
+# Changes to be committed:
+#	modified:   index.html
+#	modified:   mail.php
+#

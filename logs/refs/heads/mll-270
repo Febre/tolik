@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 25f19030167e06cbef4dd316e4b34849028fc635 Oleksii Mylotskyi <spalaxinco@gmail.com> 1458231114 +0400	branch: Created from HEAD
+25f19030167e06cbef4dd316e4b34849028fc635 266ec14e6e1ebdee883dddc214393a0b4920b0f6 Oleksii Mylotskyi <spalaxinco@gmail.com> 1458231170 +0400	commit: [MLL-270] Bug fixed, by changing header return hash
